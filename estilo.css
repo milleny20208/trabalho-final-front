@@ -1,0 +1,111 @@
+.p1{
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    height: 50vh;
+}
+.topo{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 10vh;
+}
+.logo{
+    width: 20%;
+    height: 10vh;
+    margin-left: 1%;
+    background-color: brown;
+}
+.menus{
+    width: 10%;
+    height: 10vh;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 1%;
+}
+.menu{
+    width: 5vh;
+    height: 5vh;
+}
+.fwc{
+    width: 90%;
+    height: 38vh;
+    margin-left: 5%;
+    margin-top: 1vh;
+    background-color: blueviolet;
+}
+.p2{
+    display: flex;
+    flex-flow: row;
+    width: 100%;
+    height: 90vh;
+}
+.noticias{
+    display: flex;
+    flex-flow: column wrap;
+    width: 70%;
+    height: 100%;
+    justify-content: space-evenly;
+}
+.noti{
+    width: 39.5%;
+    height: 49.5%;
+    margin-left: 5%;
+}
+.bandeira{
+    width: 100%;
+    height: 80%;
+}
+.texto{
+    width: 100%;
+    height: 20%;
+    margin: 0.5vh;
+}
+.lateral{
+    display: flex;
+    flex-flow: column;
+    width: 30%;
+    height: 100%;
+}
+.grupog{
+    width: 100%;
+    height: 80%;
+}
+.grupos{
+    width: 100%;
+    height: 70%;
+}
+.textog{
+    width: 100%;
+    height: 30%;
+    margin: 0.5;
+}
+.notpeque{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 20%;
+}
+.peque{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 47%;
+}
+.imgpeque{
+    width: 20%;
+    height: 100%;
+}
+.texto1{
+    width: 80%;
+    height: 100%;
+    margin: 0.5;
+
+}
